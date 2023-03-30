@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Site from template (not a master repo)</h1>
-
+    <h1>Maxim ZUgan</h1>
   </div>
 </template>
 
