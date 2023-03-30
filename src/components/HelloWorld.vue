@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Yeah!!</h1>
+    <h1>Site from template (not a master repo)</h1>
 
   </div>
 </template>
